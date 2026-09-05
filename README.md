@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 วัตถุประสงค์ของโปรเจกต์ (Project Objectives) 
+## 🎯 วัตถุประสงค์ของโปรเจกต์ (Project Objectives)
 
 *   **Practice Full-Stack Architecture:** ฝึกการแบ่งส่วนการทำงานระหว่างหน้าบ้าน (Frontend) และหลังบ้าน (Backend) อย่างเป็นระบบ
 *   **Master API Concepts:** เรียนรู้กระบวนการรับ-ส่งข้อมูล การเชื่อมต่อ และการจัดการข้อมูลผ่าน  API
